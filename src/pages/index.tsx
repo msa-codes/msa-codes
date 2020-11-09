@@ -1,5 +1,5 @@
 const Home = () => (
-  <h1>Home Marcelo!</h1>
+  <h1>Home staging, área de teste!</h1>
 )
 
 export default Home
