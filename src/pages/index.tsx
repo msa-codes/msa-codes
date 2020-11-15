@@ -1,5 +1,12 @@
+import Header from 'components/Header'
+
+import GlobalStyles from 'styles/global'
+
 const Home = () => (
-  <h1>Home Marcelo!</h1>
+  <>
+    <Header />
+    <GlobalStyles />
+  </>
 )
 
 export default Home
